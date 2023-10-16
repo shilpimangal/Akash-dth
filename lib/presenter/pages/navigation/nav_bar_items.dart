@@ -1,0 +1,1 @@
+enum NavbarItem { Settings, Chat, Home, Tutorial, Menu }
